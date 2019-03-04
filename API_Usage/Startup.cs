@@ -3,9 +3,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using MVC_EF_Start.DataAccess;
+using API_Usage.DataAccess;
 
-namespace MVC_EF_Start
+namespace API_Usage
 {
   public class Startup
   {

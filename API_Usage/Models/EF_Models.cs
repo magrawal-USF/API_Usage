@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace MVC_EF_Start.Models
+namespace API_Usage.Models
 {
   public class Company
   {
