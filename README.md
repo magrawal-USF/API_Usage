@@ -1,4 +1,3 @@
-# MVC_EF_Start
-Created starting point for an MVC Core project with Entity Framework
+# API_Usage
 
-This is a starting point for an MVC Core project, with tooling for Entity Framework. When run, it will create a database in the local MSSQLServer instance.
+An MVC project to introduce using REST APIs and Azure ML models. The project uses HttpClient to connect to the IEXTrading API, uses NewtonSoft to parse the returned Json objects and saves the results in a database in the local MSSQLServer instance.
